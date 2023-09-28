@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044871462418",
+    "project_id": "flutter-exercise-fajardo",
+    "storage_bucket": "flutter-exercise-fajardo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044871462418:android:5578c8b5f675a1fecaa2cb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_exercise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7RWt6CpQKF8769P9JyK1QetSTKAVExcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
